@@ -28,4 +28,4 @@
 
 
 ------
-© Deltacat — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Некомерційне використання дозволено.
+© Undercat037 — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Некомерційне використання дозволено.

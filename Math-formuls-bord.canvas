@@ -222,20 +222,20 @@
 		{"id":"be7ea3fb1d57c95e","type":"text","text":"$(\\text{tg}\\, x)'$ = $\\dfrac{1}{\\cos^2 x}$","x":530,"y":-854,"width":280,"height":59,"color":"5"},
 		{"id":"96dbd0e2345910a3","type":"text","text":"$(\\sqrt{x})' = \\dfrac{1}{2\\sqrt{x}}$","x":530,"y":-392,"width":280,"height":63,"color":"5"},
 		{"id":"d0a028de1ffe2261","type":"text","text":"**Внутрішня енергія**","x":620,"y":1480,"width":250,"height":60,"color":"2"},
-		{"id":"1f9d9edec3338e5a","x":870,"y":1710,"width":250,"height":60,"color":"5","type":"text","text":"$U = E_{\\text{к}} + E_{\\text{п}}$"},
-		{"id":"cbe62971fd16e862","x":870,"y":1770,"width":250,"height":60,"color":"5","type":"text","text":"$[U] = 1\\ \\text{Дж}$"},
-		{"id":"1431d0c52d085a0f","x":870,"y":1920,"width":250,"height":60,"color":"6","type":"text","text":"Ідеальний газ (одноатомний)"},
-		{"id":"4eb18e9f3731a06a","x":1100,"y":2080,"width":250,"height":60,"color":"5","type":"text","text":"$\\bar{E}_k = \\dfrac{3}{2}kT$"},
-		{"id":"712c57d60a45f91f","x":1100,"y":2140,"width":250,"height":60,"color":"5","type":"text","text":"$N = \\dfrac{m}{M}N_A$"},
-		{"id":"7709209fa9887092","x":1100,"y":2200,"width":250,"height":60,"color":"5","type":"text","text":"$U = \\bar{E}_k \\cdot N$"},
-		{"id":"9355ac481a3db6d3","x":1100,"y":2260,"width":250,"height":60,"color":"5","type":"text","text":"$U = \\dfrac{3}{2}\\dfrac{m}{M}RT$"},
-		{"id":"25ac0a867737012f","x":1100,"y":2320,"width":250,"height":60,"color":"5","type":"text","text":"$pV = \\dfrac{m}{M}RT$"},
-		{"id":"f3262a7cfbb9db0a","x":1100,"y":2380,"width":250,"height":60,"color":"5","type":"text","text":"$U = \\dfrac{3}{2}pV$"},
-		{"id":"a9c5ecb6178ba7e6","x":870,"y":2480,"width":250,"height":60,"color":"6","type":"text","text":"Кількість теплоти (згоряння палива)"},
-		{"id":"bf0c3b3cbf70fec4","x":1100,"y":2640,"width":250,"height":60,"color":"5","type":"text","text":"$Q = qm$"},
-		{"id":"889be1cefcdf4a3c","x":1350,"y":2540,"width":250,"height":80,"color":"4","type":"text","text":"$q$ — питома теплота згоряння\n$m$ — маса палива"},
-		{"id":"cd467b1f9761aa48","x":870,"y":2760,"width":250,"height":60,"color":"6","type":"text","text":"ККД нагрівника"},
-		{"id":"40481e653f5921f6","x":1100,"y":2940,"width":250,"height":60,"color":"5","type":"text","text":"$\\eta = \\dfrac{Q_{\\text{кор}}}{Q_{\\text{повна}}}$"}
+		{"id":"1f9d9edec3338e5a","type":"text","text":"$U = E_{\\text{к}} + E_{\\text{п}}$","x":870,"y":1710,"width":250,"height":60,"color":"5"},
+		{"id":"cbe62971fd16e862","type":"text","text":"$[U] = 1\\ \\text{Дж}$","x":870,"y":1770,"width":250,"height":60,"color":"5"},
+		{"id":"1431d0c52d085a0f","type":"text","text":"Ідеальний газ (одноатомний)","x":870,"y":1920,"width":250,"height":60,"color":"6"},
+		{"id":"4eb18e9f3731a06a","type":"text","text":"$\\bar{E}_k = \\dfrac{3}{2}kT$","x":1100,"y":2080,"width":250,"height":60,"color":"5"},
+		{"id":"712c57d60a45f91f","type":"text","text":"$N = \\dfrac{m}{M}N_A$","x":1100,"y":2140,"width":250,"height":60,"color":"5"},
+		{"id":"7709209fa9887092","type":"text","text":"$U = \\bar{E}_k \\cdot N$","x":1100,"y":2200,"width":250,"height":60,"color":"5"},
+		{"id":"9355ac481a3db6d3","type":"text","text":"$U = \\dfrac{3}{2}\\dfrac{m}{M}RT$","x":1100,"y":2260,"width":250,"height":60,"color":"5"},
+		{"id":"25ac0a867737012f","type":"text","text":"$pV = \\dfrac{m}{M}RT$","x":1100,"y":2320,"width":250,"height":60,"color":"5"},
+		{"id":"f3262a7cfbb9db0a","type":"text","text":"$U = \\dfrac{3}{2}pV$","x":1100,"y":2380,"width":250,"height":60,"color":"5"},
+		{"id":"a9c5ecb6178ba7e6","type":"text","text":"Кількість теплоти (згоряння палива)","x":870,"y":2480,"width":250,"height":60,"color":"6"},
+		{"id":"bf0c3b3cbf70fec4","type":"text","text":"$Q = qm$","x":1100,"y":2640,"width":250,"height":60,"color":"5"},
+		{"id":"889be1cefcdf4a3c","type":"text","text":"$q$ — питома теплота згоряння\n$m$ — маса палива","x":1350,"y":2540,"width":250,"height":80,"color":"4"},
+		{"id":"cd467b1f9761aa48","type":"text","text":"ККД нагрівника","x":870,"y":2760,"width":250,"height":60,"color":"6"},
+		{"id":"40481e653f5921f6","type":"text","text":"$\\eta = \\dfrac{Q_{\\text{кор}}}{Q_{\\text{повна}}}$","x":1100,"y":2940,"width":250,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"42509d0ded51cc2d","fromNode":"0b8058dd0ee92fc3","fromSide":"right","toNode":"fd4ffbea9ecafd2a","toSide":"top","color":"6"},
@@ -410,6 +410,7 @@
 		{"id":"95b5a9172b5c976c","fromNode":"a9c5ecb6178ba7e6","fromSide":"bottom","toNode":"bf0c3b3cbf70fec4","toSide":"left"},
 		{"id":"524b3f36def9c470","fromNode":"889be1cefcdf4a3c","fromSide":"bottom","toNode":"bf0c3b3cbf70fec4","toSide":"right"},
 		{"id":"268a6701e139ebe6","fromNode":"cd467b1f9761aa48","fromSide":"bottom","toNode":"40481e653f5921f6","toSide":"left"},
-		{"id":"4beaba40f549152f","fromNode":"d0a028de1ffe2261","fromSide":"bottom","toNode":"cd467b1f9761aa48","toSide":"left"}
+		{"id":"4beaba40f549152f","fromNode":"d0a028de1ffe2261","fromSide":"bottom","toNode":"cd467b1f9761aa48","toSide":"left"},
+		{"id":"dbd0354f7699d1a6","fromNode":"6c61ebbf50461e16","fromSide":"bottom","toNode":"d0a028de1ffe2261","toSide":"top"}
 	]
 }

@@ -24,7 +24,7 @@
 **Для зручного оновлення через git**
 ```bash
 # Перше завантаження
-git clone https://github.com/Undercat037/math-formuls-cheatsheet.git
+git clone https://github.com/Undercat037/Math-and-Physics-Formulas-Cheatsheet.git
 
 # Для оновлення (якщо вже клонував)
 cd math-formuls-cheatsheet
